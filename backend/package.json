@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This will be handling all the backend related operations for Work From Home Tracking system.",
+  "main": "src/app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhavya Garg",
+  "license": "ISC"
+}
